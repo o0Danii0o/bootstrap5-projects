@@ -1,0 +1,3 @@
+[submodule "ebook-website"]
+	path = ebook-website
+	url = https://github.com/o0Danii0o/ebook-website.git
