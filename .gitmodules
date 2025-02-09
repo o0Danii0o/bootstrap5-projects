@@ -1,3 +1,6 @@
 [submodule "ebook-website"]
 	path = ebook-website
 	url = https://github.com/o0Danii0o/ebook-website.git
+[submodule "vera-web"]
+	path = vera-web
+	url = https://github.com/o0Danii0o/vera-website.git
